@@ -1,0 +1,2 @@
+# MenuRAG-Intelligent-Menu-Question-Answering-using-Retrieval-Augmented-Generation
+Retrieval Augmented Generation system for Querying Restaurant Menu PDFs using FAISS and Transformer Models. It enables semantic search and context aware Response Generation through a fully open source pipeline, combining document processing, vector based retrieval, and local language models to transform static menus into an interactive QA system.
